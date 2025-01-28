@@ -1,4 +1,4 @@
-# Websim-Project-Archivers
+# Websim Project Archivers
 
 Hello! We are the Websim Project Archivers, a group which downloads websim.ai projects to archive/preserve them in case of them getting deleted.
 
