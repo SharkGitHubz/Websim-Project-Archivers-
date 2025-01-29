@@ -1,6 +1,6 @@
 function animateCounter() {
   const counter = document.getElementById('archiveCount');
-  const target = 5; 
+  const target = 7; 
   let current = 0;
   
   const interval = setInterval(() => {
