@@ -10,6 +10,6 @@ Hello! We are the Websim Project Archivers, a group which downloads websim.ai pr
 4. Click on Download to download the .zip file
 5. You did it!
 
-# WARNING: SOME PROJECTS WITH AI CAPABILITY MAY OR MAY NOT WORK
+**WARNING: SOME PROJECTS WITH AI CAPABILITY MAY OR MAY NOT WORK**
 
 We are currently working on improving everything here, it was made on January 28, 2025, 7 PM.
