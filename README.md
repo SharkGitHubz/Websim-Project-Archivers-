@@ -4,6 +4,9 @@ Hello! We are the Websim Project Archivers, a group which downloads websim.ai pr
 
 # How to do it
 
+![Demo](Recording2025-01-31221941-ezgif.com-video-to-gif-converter.gif)
+
+
 1. Go to websim.ai, and make an account if you haven't
 2. Go to a project that you like and want to archive, even your own
 3. Click on the three vertical dots
