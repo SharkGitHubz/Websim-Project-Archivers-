@@ -16,3 +16,5 @@ Hello! We are the Websim Project Archivers, a group which downloads websim.ai pr
 **WARNING: SOME PROJECTS WITH AI CAPABILITY MAY OR MAY NOT WORK**
 
 We are currently working on improving everything here, it was made on January 28, 2025, 7 PM.
+
+Google Doc on archived games: https://docs.google.com/spreadsheets/d/1bYeJ63VZ-q6QBXFV2BAjEQ5f-lPyw4LNOlGWTnHQms4/edit?usp=sharing
